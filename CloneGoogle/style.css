@@ -14,3 +14,35 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.logo {
+    height: 8rem;
+    background-color: blue;
+}
+
+.search {
+    height: 4rem;
+    background-color:yellow;
+}
+
+.links {
+    height: 15rem;
+    background-color: violet;
+}
+
+.links-first-row {
+    height: 5rem;
+    width: 30rem;
+    /*para centrar automaticamente un elemento*/
+    margin: 0 auto;
+    background-color: yellowgreen;
+}
+
+.loguito {
+    height: 100%;
+    width: 24.2%;
+    background-color: chocolate;
+    margin: 0 auto;
+    padding: 0;
+    display: inline-block;
+}
